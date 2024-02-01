@@ -13,10 +13,26 @@ text-align: center;
 color: red; 
 
 }
-.img-div{
+.image{
   width: 900px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   
+}
+p{
+  text-align: center;
+  font-size: large;
+  color:;
+  
+}
+.img-div{
+width: 950px;
+height: 600px;
+background-color: grey;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 3%;
+
 }
